@@ -1,0 +1,8 @@
+﻿  Arrow 2.cpp
+C:\Users\Gustavo\Desktop\Gustavo\All\Programming\C++\Projects\Learning\Arrow 2\Arrow 2.cpp(13,48): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'float *' para 'int'
+C:\Users\Gustavo\Desktop\Gustavo\All\Programming\C++\Projects\Learning\Arrow 2\Arrow 2.cpp(13,48): warning C4302: 'conversão de tipo': truncamento de 'float *' para 'int'
+C:\Users\Gustavo\Desktop\Gustavo\All\Programming\C++\Projects\Learning\Arrow 2\Arrow 2.cpp(14,47): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'float *' para 'int'
+C:\Users\Gustavo\Desktop\Gustavo\All\Programming\C++\Projects\Learning\Arrow 2\Arrow 2.cpp(14,47): warning C4302: 'conversão de tipo': truncamento de 'float *' para 'int'
+C:\Users\Gustavo\Desktop\Gustavo\All\Programming\C++\Projects\Learning\Arrow 2\Arrow 2.cpp(15,47): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'float *' para 'int'
+C:\Users\Gustavo\Desktop\Gustavo\All\Programming\C++\Projects\Learning\Arrow 2\Arrow 2.cpp(15,47): warning C4302: 'conversão de tipo': truncamento de 'float *' para 'int'
+  Arrow 2.vcxproj -> C:\Users\Gustavo\Desktop\Gustavo\All\Programming\C++\Projects\Learning\x64\Debug\Arrow 2.exe

@@ -1,0 +1,3 @@
+﻿  Classes.cpp
+C:\Users\Gustavo\Desktop\Gustavo\All\Programming\C++\Projects\Learning\Classes\Classes.cpp(52,15): error C2371: 'player': redefinição; tipos básicos diferentes
+C:\Users\Gustavo\Desktop\Gustavo\All\Programming\C++\Projects\Learning\Classes\Classes.cpp(49,14): message : consulte a declaração de 'player'

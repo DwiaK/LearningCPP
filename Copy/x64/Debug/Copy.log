@@ -1,0 +1,3 @@
+﻿  Copy.cpp
+C:\Users\Gustavo\Desktop\Gustavo\All\Programming\C++\Projects\Learning\Copy\Copy.cpp(13,1): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+  Copy.vcxproj -> C:\Users\Gustavo\Desktop\Gustavo\All\Programming\C++\Projects\Learning\x64\Debug\Copy.exe

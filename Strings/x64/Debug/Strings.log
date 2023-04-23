@@ -1,0 +1,4 @@
+﻿  Strings.cpp
+C:\Users\Gustavo\Desktop\Gustavo\All\Programming\C++\Projects\Learning\Strings\Strings.cpp(27,16): warning C4834: descartando o valor retornado da função com o atributo 'nodiscard'
+C:\Users\Gustavo\Desktop\Gustavo\All\Programming\C++\Projects\Learning\Strings\Strings.cpp(24,11): warning C4101: 's': variável local não referenciada
+  Strings.vcxproj -> C:\Users\Gustavo\Desktop\Gustavo\All\Programming\C++\Projects\Learning\x64\Debug\Strings.exe
